@@ -1,0 +1,120 @@
+{
+  "eqt": [
+    {
+      "asp": 1,
+      "tt": 12,
+      "tv": "Sum"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "asp": 0,
+      "vt": true,
+      "tt": 17,
+      "tv": "of"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "cid": [
+        "-1_991_2001_-1"
+      ],
+      "asp": 1,
+      "vt": true,
+      "tt": 2,
+      "tv": "Activities Count"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": "by"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "asp": 1,
+      "tt": 0,
+      "tv": "Events Involved"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    }
+  ],
+  "eq": "Sum of Activities Count by Events Involved ",
+  "sugaf": "Sum of ",
+  "peqt": [
+    {
+      "asp": 1,
+      "tt": 12,
+      "tv": "Sum"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "asp": 0,
+      "vt": true,
+      "tt": 17,
+      "tv": "of"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "cid": [
+        "-1_991_2001_-1"
+      ],
+      "asp": 1,
+      "vt": true,
+      "tt": 2,
+      "tv": "Activities Count"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": "by"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    },
+    {
+      "asp": 1,
+      "tt": 0,
+      "tv": "Events Involved"
+    },
+    {
+      "asp": 0,
+      "tt": 17,
+      "tv": " "
+    }
+  ],
+  "rid": "1568711564615",
+  "tp": "4"
+}
